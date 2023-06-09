@@ -15,7 +15,8 @@ To put your image on github using
 ```
 
 ```shell
-Put your code if you need
+if __name__ == "__main__":
+  print("Put your code or payload in here")
 ```
 
 ```

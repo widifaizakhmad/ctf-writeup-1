@@ -1,7 +1,7 @@
 # CTF Writeup
 Personal Info.
 
-## List CTF
+## List Challange
 List of Challange I solved.
 
 ### Week 1

@@ -1,5 +1,8 @@
 # Writeup CTF Foresty Hacker Class
-Personal Info.
+
+* Nama  : Widi Faiz Akhmad
+* Prodi : S1 Teknologi Informasi
+* NIM   : 1303210032
 
 ## List Challange
 List of Challange I solved.
